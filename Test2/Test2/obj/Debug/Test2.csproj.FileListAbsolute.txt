@@ -1,0 +1,6 @@
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\Test2\Test2\obj\Debug\Test2.pdb
