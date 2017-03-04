@@ -1,0 +1,9 @@
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\bin\Debug\FlexiDraw.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\bin\Debug\FlexiDraw.exe
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\bin\Debug\FlexiDraw.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.Form1.resources
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.Properties.Resources.resources
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.exe
+C:\Users\Piotrek\Documents\Visual Studio 2015\Projects\CSharpAcademy\FlexiDraw\FlexiDraw\obj\Debug\FlexiDraw.pdb
